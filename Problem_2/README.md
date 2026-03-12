@@ -103,6 +103,7 @@ python transform.py
 ## 4. 중간 결과 (Intermediate Results)
 
 ### 터미널 출력 로그 
+
 ![중간결과](outputs/2weeeksecond.png)
 
 
