@@ -116,11 +116,11 @@ python depth.py
 
 ## 4. 중간 결과 (Intermediate Results)
 
-### 터미널 출력 로그 (예시)
+### 터미널 출력 로그 
 
-```
+
 (outputs/2weeekthird.png)
-```
+
 
 ### Disparity Map (처리 과정)
 
