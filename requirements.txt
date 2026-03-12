@@ -1,0 +1,8 @@
+# L02 Image Formation 과제 - 전체 requirements.txt
+# Python >= 3.8 권장
+
+# OpenCV: 컴퓨터 비전 라이브러리 (이미지 처리, 캘리브레이션, 스테레오 등)
+opencv-python>=4.7.0
+
+# NumPy: 행렬 연산 및 수치 계산
+numpy>=1.23.0

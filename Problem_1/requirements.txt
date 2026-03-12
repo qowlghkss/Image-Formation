@@ -1,0 +1,3 @@
+# Problem_1 - 카메라 캘리브레이션 requirements.txt
+opencv-python>=4.7.0
+numpy>=1.23.0
