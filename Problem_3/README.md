@@ -119,7 +119,7 @@ python depth.py
 ### 터미널 출력 로그 
 
 
-(outputs/2weeekthird.png)
+![중간결과](outputs/2weekthird.png) 
 
 
 ### Disparity Map (처리 과정)
