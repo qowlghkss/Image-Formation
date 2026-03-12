@@ -104,7 +104,7 @@ python transform.py
 
 ### 터미널 출력 로그 
 
-![중간결과](outputs/2weeeksecond.png)
+![중간결과](Problem_2/outputs/2weeksecond.png)
 
 
 ### 변환 행렬 시각화
