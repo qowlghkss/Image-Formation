@@ -98,8 +98,8 @@ python calibration.py
 
 ## 4. 중간 결과 (Intermediate Results)
 
-### 터미널 출력 로그 (예시)
-!(outputs/2weekfirst.png) 
+### 터미널 출력 로그 
+![중간결과](outputs/2weekfirst.png) 
 
 > **재투영 오차(RMS)**: 값이 1.0 이하이면 정확한 캘리브레이션 결과입니다.
 
